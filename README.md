@@ -1,2 +1,2 @@
-# labview-nxg-webvi
+https://maimemory.github.io/labview-nxg-webvi/
  
